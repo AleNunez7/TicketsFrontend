@@ -1,0 +1,16 @@
+.firstContainer {
+  width: 25rem;
+}
+
+.secondContainer {
+  background-color: white;
+  width: 25rem;
+}
+
+.fontSize {
+  font-size: 12px;
+}
+
+.arrowRight {
+  color: grey;
+}
